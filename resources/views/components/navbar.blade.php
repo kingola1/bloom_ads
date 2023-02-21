@@ -10,7 +10,7 @@
                 <li class="hover:border-b-4 border-bloom-orange"><a href="#how">How
                         it Works</a>
                 </li>
-                <li class="hover:border-b-4 border-bloom-orange"><a href="#fees">Fees</a></li>
+                <li class="hover:border-b-4 border-bloom-orange"><a href="#what">What You Get</a></li>
                 <li class="hover:border-b-4 border-bloom-orange"><a href="#faqs">FAQs</a></li>
             </ul>
         </div>

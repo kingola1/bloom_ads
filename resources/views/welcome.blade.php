@@ -46,17 +46,15 @@
 {{-- HOW IT WORKS END --}}
 
 {{-- FEES --}}
-<div class="h-auto w-auto px-2 my-12 md:h-[600px]" id="fees">
+<div class="h-auto w-auto px-2 my-12 md:h-[600px]" id="what">
     <div class="bg-bloom-orange px-2 md:px-8 h-4/5 pt-4">
         <div class="flex items-start md:justify-between items-start mb-8 text-white">
             <div class="grid gap-4">
                 <h1 class="font-bold text-xl md:text-4xl">What you get</h1>
-                <p class="md:text-2xl font-normal">we have a fee for every budget</p>
             </div>
             <div class="grid font-normal text-sm md:text-xl font-black">
                 <h1>CONTACT US</h1>
                 <h1>ADS@BLOOMDIGITMEDIA.COM</h1>
-                <h1>FOR ADS SPENDS OF 1MILLION AND ABOVE</h1>
             </div>
         </div>
         <div class="grid hidden gap-4 md:grid block gap-4 grid-cols-3 items-center ">
@@ -74,8 +72,7 @@
                 </div>
                 <div class="justify-center items-center px-10 grid gap-8 py-8 bg-[#ffeed9] rounded-br-3xl">
                     <ul class="text-lg font-normal marker:text-bloom-orange list-disc ml-6">
-                        <li>You get an account with a credit line as a payment method attached to it</li> <br />
-                        <li>Google or Meta ADs & Naira Account</li>
+                        <li>You get an account with a credit line as a payment method attached to it</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
@@ -99,8 +96,7 @@
                 <div class="justify-center items-center px-10 grid gap-8 py-8 bg-[#ffeed9] rounded-br-3xl">
                     <ul class="text-lg font-normal marker:text-bloom-orange list-disc ml-6">
                         <li>You prepay for your ads credit by requesting an invoice from us. after your payment is
-                            confirmed your account will be credited</li> <br />
-                        <li>Google or Meta ADs & Naira Account</li>
+                            confirmed your account will be credited</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
@@ -124,8 +120,7 @@
                 <div class="justify-center items-center px-10 grid gap-8 py-8 bg-[#ffeed9] rounded-br-3xl">
                     <ul class="text-lg font-normal marker:text-bloom-orange list-disc ml-6">
                         <li>Your ads will be managed by your team we would provide professional support when the need be
-                            to help your campaign achieve its goals and objectives.</li> <br />
-                        <li>Google or Meta ADs & Naira Account</li>
+                            to help your campaign achieve its goals and objectives.</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
@@ -154,7 +149,6 @@
                 <div class="justify-center items-center px-6 grid gap-8 py-10 bg-[#ffeed9] rounded-br-3xl">
                     <ul class="text-2xl font-normal marker:text-bloom-orange list-disc ml-6">
                         <li>You get an account with a credit line as a payment method attached to it</li>
-                        <li>Google or Meta ADs & Naira Account</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
@@ -179,7 +173,6 @@
                     <ul class="text-2xl font-normal marker:text-bloom-orange list-disc ml-6">
                         <li>You prepay for your ads credit by requesting an invoice from us. after your payment is
                             confirmed your account will be credited</li>
-                        <li>Google or Meta ADs & Naira Account</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
@@ -204,7 +197,6 @@
                     <ul class="text-2xl font-normal marker:text-bloom-orange list-disc ml-6">
                         <li>Your ads will be managed by your team we would provide professional support when the need be
                             to help your campaign achieve its goals and objectives.</li>
-                        <li>Google or Meta ADs & Naira Account</li>
                     </ul>
                     <div class="justify-center items-center">
                         <a href="/get-started"
